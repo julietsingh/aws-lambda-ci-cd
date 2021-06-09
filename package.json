@@ -1,5 +1,5 @@
 {
-  "name": "aws-lambdas",
+  "name": "aws-lambda-ci-cd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giri-jeedigunta/aws-lambdas.git"
+    "url": "git+https://github.com/julietsingh/aws-lambda-ci-cd/aws-lambda-ci-cd.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/giri-jeedigunta/aws-lambdas/issues"
+    "url": "https://github.com/julietsingh/aws-lambda-ci-cd/aws-lambda-ci-cd/issues"
   },
-  "homepage": "https://github.com/giri-jeedigunta/aws-lambdas#readme",
+  "homepage": "https://github.com/julietsingh/aws-lambda-ci-cd/aws-lambda-ci-cd#readme",
   "dependencies": {
     "uuid": "^8.3.2"
   },

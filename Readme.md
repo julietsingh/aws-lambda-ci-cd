@@ -1,1 +1,1 @@
-# aws-lambdas
+# aws-lambda-ci-cd
